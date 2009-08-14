@@ -86,6 +86,14 @@
         <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Air Date/Time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ListCasts</name>
@@ -153,31 +161,11 @@ Car&amp;t/Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Casts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Uploading Audio...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Format Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to convert audio file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to upload audio file!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -214,23 +202,23 @@ Continue deleting cast?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File does not exist!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot open file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsupported file type!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source> </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only Show Unexpired Casts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only Show Active Casts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Posting Error</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

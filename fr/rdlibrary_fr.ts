@@ -383,11 +383,6 @@ Please check your ripper configuration and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Rip
-Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -472,6 +467,11 @@ Please check your ripper configuration and try again.</source>
     </message>
     <message>
         <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Rip
+Disc</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -625,6 +625,14 @@ Script</source>
     <message>
         <source>One or more cut lengths exceed the timescaling
 limits of the system!  Do you still want to save?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cart title must be unique!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

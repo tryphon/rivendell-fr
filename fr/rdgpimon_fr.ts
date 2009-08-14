@@ -42,5 +42,13 @@
         <source>GPO (Outputs)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Green = ON Cart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Red = OFF Cart</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -245,6 +245,10 @@ been updated to Version</source>
         <source>Matrix already exists!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>BroadcastTools SS4.4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AddReport</name>
@@ -830,10 +834,6 @@ in order to populate the audio resources database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GPI: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -941,6 +941,18 @@ in order to populate the audio resources database.</source>
     <message>
         <source>
 Do you still want to save?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Import &amp;Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purge expired cuts after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1133,6 +1145,18 @@ Displays</source>
 G&amp;POs</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Startup Cart:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutdown Cart:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditNowNext</name>
@@ -1182,6 +1206,73 @@ G&amp;POs</source>
     </message>
     <message>
         <source>Invalid Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loadable Modules:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Now Cart:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Next Cart:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EditNowNextPlugin</name>
+    <message>
+        <source>Edit Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Argument:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1469,6 +1560,14 @@ in order to populate the audio resources database.</source>
     </message>
     <message>
         <source>Select Image File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Extra Buttons/Counters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audition Preroll:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1949,6 +2048,18 @@ Variables</source>
 Encoders</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Include in System Maintenance Pool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one host must belong to the system maintenance pool!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditSvc</name>
@@ -2098,6 +2209,18 @@ Encoders</source>
     <message>
         <source>Before testing, the import configuration
 must be saved.  Save now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purge ELR Data after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Purge Logs after</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2419,10 +2542,6 @@ Permissions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copyright 2002-2007</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This program is free software, and comes with ABSOLUTELY NO WARRANTY,
 not even the implied warranties of MERCHANTIBILITY or FITNESS FOR A
 PARTICULAR PURPOSE.  Touch the &quot;View License&quot; button for details.</source>
@@ -2435,6 +2554,10 @@ PARTICULAR PURPOSE.  Touch the &quot;View License&quot; button for details.</sou
     </message>
     <message>
         <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright 2002-2008</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2619,14 +2742,6 @@ Do you still want to delete it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MACRO CART</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DESCRIPTION</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2652,6 +2767,22 @@ Do you still want to delete it?</source>
     </message>
     <message>
         <source>GPO Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON MACRO CART</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ON DESCRIPTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFF MACRO CART</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFF DESCRIPTION</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2880,6 +3011,10 @@ Do you still want to delete it?</source>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>BroadcastTools SS4.4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ListReports</name>
@@ -3026,11 +3161,15 @@ Do you still want to proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can&apos;t Delete User</source>
+        <source>DESCRIPTION</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You cannot delete yourself!</source>
+        <source>USER NAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FULL NAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3039,6 +3178,20 @@ Do you still want to proceed?</source>
     </message>
     <message>
         <source>Delete User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You must change this before deleting the user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This user is set as the default user for the following hosts:
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot delete yourself!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3185,6 +3338,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Restore completed successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System
+Settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

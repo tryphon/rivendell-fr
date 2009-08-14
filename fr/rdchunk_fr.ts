@@ -1,503 +1,372 @@
 <!DOCTYPE TS><TS>
 <context>
-    <name>EditEvent</name>
-    <message>
-        <source>Edit Event</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start at:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Action If Previous Event Still Playing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Immediately</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wait up to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Segue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start Transition Type:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Fade at Segue Out</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Audition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Track</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit Log Track</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Transition If Previous Cart Ends Before</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ListLog</name>
-    <message>
-        <source>EST TIME</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LEN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TRANS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CART</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TITLE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ARTIST</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>GROUP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TIME</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CLIENT</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AGENCY</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LABEL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LINE ID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>COUNT</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>STATUS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Make
-Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh
-Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select
-Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Log Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Log Already Exists!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>--- end of log ---</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PLAY</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>STOP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SEGUE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MARKER</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TRACK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>LINK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[music import]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[traffic import]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CHAIN TO</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[CART NOT FOUND]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[NO VALID CUT AVAILABLE]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[NO AUDIO AVAILABLE]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>T</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Run Length</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next Stop:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Log End:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selected:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audition
-Head</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audition
-Tail</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ListLogs</name>
-    <message>
-        <source>Select a Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>NAME</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DESCRIPTION</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SERVICE</source>
-        <translation type="unfinished"></translation>
-    </message>
+    <name>MainWidget</name>
     <message>
         <source>Load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unload</source>
+        <source>RHPIPlay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save</source>
+        <source>Format:  PCM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save &amp;As</source>
+        <source>Linear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>Format:  MPEG Layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rename Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LogLineBox</name>
-    <message>
-        <source>STOP</source>
+        <source>Format:  OggVorbis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PLAY</source>
+        <source>Format:  Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SEGUE</source>
+        <source>Channels:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[CART NOT FOUND]</source>
+        <source>Sample Rate:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[NO AUDIO AVAILABLE]</source>
+        <source>samples/sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[NO VALID CUT AVAILABLE]</source>
+        <source>Average Data Rate:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MARKER</source>
+        <source>bytes/sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TRACK</source>
+        <source>Frame Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LINK</source>
+        <source>byte3s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[music import]</source>
+        <source>Sample Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>[traffic import]</source>
+        <source>bits/chan/sample</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>CHAIN</source>
+        <source>Bit Rate:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>T</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWidget</name>
-    <message>
-        <source>RDAirPlay</source>
+        <source>bits/sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Multiple instances not allowed!</source>
+        <source>Codec Mode(s): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RDAirPlay - Host:</source>
+        <source>Stereo </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Database Error</source>
+        <source>JointStereo </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>ADD</source>
+        <source>DualChannel </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DEL</source>
+        <source>SingleChannel </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MOVE</source>
+        <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>COPY</source>
+        <source>50/15 ms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Main Log
-[--]</source>
+        <source>Reserved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aux 1 Log
-[--]</source>
+        <source>CCITT J.17</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aux 2 Log
-[--]</source>
+        <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sound
-Panel</source>
+        <source>Flags: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Main Log</source>
+        <source>Private </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aux 1 Log</source>
+        <source>Copyright </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Aux 2 Log</source>
+        <source>Home </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LOG
-REFRESHING</source>
+        <source>MPEG </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Exit RDAirPlay?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ModeDisplay</name>
-    <message>
-        <source>Operating Mode</source>
+        <source>FMT Chunk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>LiveAssist</source>
+        <source>Data Size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automatic</source>
+        <source>bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PostCounter</name>
-    <message>
-        <source>Next Timed Start</source>
+        <source>DATA Chunk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>On Time</source>
+        <source>samples</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next Timed Start [--:--:--]</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>StopCounter</name>
-    <message>
-        <source>Next Stop [none]</source>
+        <source>TITLE: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next Stop</source>
+        <source>ARTIST: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stopped</source>
+        <source>CUT ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CLIENT ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CATEGORY: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CLASSIFICATION: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OUT CUE: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>START DATE: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>START TIME: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>END DATE: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>END TIME: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRODUCER ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRODUCER VERSION: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>USER DEFINED: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LEVEL REFERENCE:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>dB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CART TIMER(S): </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TAG TEXT: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CART Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DESCRIPTION: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ORIGINATOR: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ORIGINATOR REFERENCE: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ORIGINATION DATE: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ORIGINATION TIME: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VERSION:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CODING HISTORY: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BEXT Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Data Composition: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Homogenous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The padding bit is active.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The padding bit is inactive.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bit rate is non-standard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non-homogenous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Format: Free Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Format: Constant Bit Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG Frame Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ancillary Bytes:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ancillary Data: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> LeftEnergy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> RightEnergy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> PrivateData</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MEXT Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Samples per Peak: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Channels: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overall Peak: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>dBFS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timestamp: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LEVL Chunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chunks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RDChunk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open file!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

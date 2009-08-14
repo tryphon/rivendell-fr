@@ -327,6 +327,14 @@ New</source>
         <source>Unsupported URL protocol!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Event Offset:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditPlayout</name>
@@ -889,6 +897,14 @@ New</source>
     </message>
     <message>
         <source>Unsupported URL protocol!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event Offset:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

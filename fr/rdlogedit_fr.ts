@@ -376,6 +376,14 @@ for the selected service!</source>
         <source>Selected:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Delete on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditLogLine</name>
@@ -655,6 +663,14 @@ group for the specified service!</source>
     </message>
     <message>
         <source>No exceptions found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effective Date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Select</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

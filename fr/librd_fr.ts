@@ -91,6 +91,14 @@
         <source>This cart already exists.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Duplicate Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The cart title must be unique!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RDAddLog</name>
@@ -1372,6 +1380,10 @@ please try again!</source>
         <source>Unable to open report file!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>RadioTraffic.com Traffic Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RDSoundPanel</name>
@@ -1442,7 +1454,7 @@ please try again!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Autofill Errors
+        <source>Event Fill Errors
 </source>
         <translation type="unfinished"></translation>
     </message>

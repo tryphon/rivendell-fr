@@ -28,13 +28,13 @@ Vous pouvez ensuite récupérer votre version sur votre ordinateur pour la modif
 Le script +rdtest+ vous aidera pour cela. (Pour l'instant), il vous faut une copie des 
 {sources de Rivendell}[http://www.rivendellaudio.org/rivendell/download.shtml].
 
-Une fois, sauvez vos modifications dans QtLinguist, lancez rdtest en lui indiquant le répertoire des sources de Rivendell :
+Une fois vos modifications sauvées dans QtLinguist, lancez rdtest en lui indiquant le répertoire des sources de Rivendell :
 
   ./rdtest /usr/src/rivendell-1.5.1
   Writing language 'fr' ... done.   
   [sudo] password for alban: 
 
-Relancez l'application rivendell et appréciez ;)
+Relancez l'application rivendell concernée et appréciez ;)
 
 Vous pouvez changer de locale, en précisant la variable LANG dans la ligne de commande :
 
@@ -50,7 +50,7 @@ Il faut committer vos modifications et les publier sur votre GitHub :
   git commit -m "Un message bien explicite" fr/rdairplay_fr.ts
   git push
 
-Et signalez que vous avez des modifications intéressantes avec le bouton _Pull Request_.
+Et signalez que vous avez des modifications intéressantes avec le bouton _PullRequest_.
 
 = Références
 

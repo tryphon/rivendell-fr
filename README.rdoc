@@ -1,0 +1,58 @@
+= Prérequis
+
+Rendez-vous sur le {channel irc #rivendell-fr}[irc://irc.freenode.net/#rivendell-fr] 
+pour synchronizer les efforts de traduction ;)
+
+Sous debian/ubuntu par exemple, il faut installer les packages suivants :
+
+  apt-get install qt3-linguist qt3-dev-tools git-core
+
+= Apporter vos modifications ?
+
+== Créer votre propre version des fichiers 
+
+Sur GitHub par exemple, une fois {votre compte créé}[https://github.com/signup/free],
+vous pouvez _forker_ {le repository de rivendell-fr}[http://github.com/albanpeignier/rivendell-fr/tree/master]. 
+
+Il suffit de cliquer sur le {bouton Fork}[http://github.com/albanpeignier/rivendell-fr/fork].
+
+Vous pouvez ensuite récupérer votre version sur votre ordinateur pour la modifier :
+ 	
+  git clone git@github.com:youraccount/rivendell-fr.git
+
+  cd rivendell-fr
+  linguist-qt3 fr/rdairplay_fr.ts
+
+== Tester
+
+Le script +rdtest+ vous aidera pour cela. (Pour l'instant), il vous faut une copie des 
+{sources de Rivendell}[http://www.rivendellaudio.org/rivendell/download.shtml].
+
+Une fois, sauvez vos modifications dans QtLinguist, lancez rdtest en lui indiquant le répertoire des sources de Rivendell :
+
+  ./rdtest /usr/src/rivendell-1.5.1
+  Writing language 'fr' ... done.   
+  [sudo] password for alban: 
+
+Relancez l'application rivendell et appréciez ;)
+
+Vous pouvez changer de locale, en précisant la variable LANG dans la ligne de commande :
+
+  LANG=fr rdairplay
+  LANG=en rdairplay
+  LANG=de rdairplay
+  ...
+
+== Soumettre vos modifications
+
+Il faut committer vos modifications et les publier sur votre GitHub :
+
+  git commit -m "Un message bien explicite" fr/rdairplay_fr.ts
+  git push
+
+Et signalez que vous avez des modifications intéressantes avec le bouton _Pull Request_.
+
+= Références
+
+* {Documentation GitHub (anglais)}[http://github.com/guides/fork-a-project-and-submit-your-modifications]
+* {Documentation QtLinguist}[http://doc.trolltech.com/3.3/linguist-manual-3.html]

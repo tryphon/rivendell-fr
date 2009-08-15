@@ -1,13 +1,37 @@
-= Prérequis
-
 Rendez-vous sur le {channel irc #rivendell-fr}[irc://irc.freenode.net/#rivendell-fr] 
 pour synchronizer les efforts de traduction ;)
+
+= Conventions
+
+A discuter sur l'irc ou sur la mailing-list
+
+== Non traduits
+
+Ne sont pas traduits :
+
+* cart
+* cut
+* log
+* voice track
+
+Les équivalents ne sont pas très évidents et on a un problème de taille.
+
+== Lexique
+
+edit:: modifier
+fade:: fondu
+host:: station
+marker:: marque
+play:: lancer
+segue:: enchainement, enchaîner
+
+= Apporter vos modifications ?
+
+== Prérequis
 
 Sous debian/ubuntu par exemple, il faut installer les packages suivants :
 
   apt-get install qt3-linguist qt3-dev-tools git-core
-
-= Apporter vos modifications ?
 
 == Créer votre propre version des fichiers 
 

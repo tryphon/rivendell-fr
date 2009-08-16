@@ -13,3 +13,9 @@ cd rdairplay
 lupdate rdairplay.pro
 lrelease rdairplay.pro
 sudo cp rdairplay_fr.qm /usr/share/rivendell/
+
+cd ../lib
+lupdate lib.pro
+lrelease lib.pro
+sudo cp librd_fr.qm /usr/share/rivendell/
+

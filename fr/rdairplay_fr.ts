@@ -94,289 +94,291 @@
     <name>ListLog</name>
     <message>
         <source>EST TIME</source>
-        <translation type="unfinished">HORAIRE EST</translation>
+        <translation>HORAIRE EST</translation>
     </message>
     <message>
         <source>LEN</source>
-        <translation type="unfinished">DUREE</translation>
+        <translation>DUREE</translation>
     </message>
     <message>
         <source>TRANS</source>
-        <translation type="unfinished"></translation>
+        <translation>TRANS</translation>
     </message>
     <message>
         <source>CART</source>
-        <translation type="unfinished">CART</translation>
+        <translation>CART</translation>
     </message>
     <message>
         <source>TITLE</source>
-        <translation type="unfinished"></translation>
+        <translation>TITRE</translation>
     </message>
     <message>
         <source>ARTIST</source>
-        <translation type="unfinished">ARTISTE</translation>
+        <translation>ARTISTE</translation>
     </message>
     <message>
         <source>GROUP</source>
-        <translation type="unfinished">GROUPE</translation>
+        <translation>GROUPE</translation>
     </message>
     <message>
         <source>TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>HORAIRE</translation>
     </message>
     <message>
         <source>CLIENT</source>
-        <translation type="unfinished">CLIENT</translation>
+        <translation>CLIENT</translation>
     </message>
     <message>
         <source>AGENCY</source>
-        <translation type="unfinished">AGENCE</translation>
+        <translation>AGENCE</translation>
     </message>
     <message>
         <source>LABEL</source>
-        <translation type="unfinished">LABEL</translation>
+        <translation>LABEL</translation>
     </message>
     <message>
         <source>LINE ID</source>
-        <translation type="unfinished"></translation>
+        <translation>LIGNE ID</translation>
     </message>
     <message>
         <source>COUNT</source>
-        <translation type="unfinished">COMPTE</translation>
+        <translation>NUMERO</translation>
     </message>
     <message>
         <source>STATUS</source>
-        <translation type="unfinished">STATUT</translation>
+        <translation>STATUT</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <source>Make
 Next</source>
-        <translation type="unfinished">Utiliser
+        <translation>Utiliser
 Ensuite</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished">Modifier</translation>
+        <translation>Modifier</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation type="unfinished">Défiler</translation>
+        <translation>Dérouler</translation>
     </message>
     <message>
         <source>Refresh
 Log</source>
-        <translation type="unfinished">Rafraichir
+        <translation>Rafraichir
 le Log</translation>
     </message>
     <message>
         <source>Select
 Log</source>
-        <translation type="unfinished">Choisir
+        <translation>Choisir
 un Log</translation>
     </message>
     <message>
         <source>Log Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce Log existe</translation>
     </message>
     <message>
         <source>Log Already Exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce Log existe déjà !</translation>
     </message>
     <message>
         <source>--- end of log ---</source>
-        <translation type="unfinished">-- fin du log --</translation>
+        <translation>-- fin du log --</translation>
     </message>
     <message>
         <source>PLAY</source>
-        <translation type="unfinished">LANCER</translation>
+        <translation>LANCER</translation>
     </message>
     <message>
         <source>STOP</source>
-        <translation type="unfinished"></translation>
+        <translation>STOPPER</translation>
     </message>
     <message>
         <source>SEGUE</source>
-        <translation type="unfinished">ENCHAINER</translation>
+        <translation>ENCHAINER</translation>
     </message>
     <message>
         <source>MARKER</source>
-        <translation type="unfinished">MARQUE</translation>
+        <translation>MARQUE</translation>
     </message>
     <message>
         <source>TRACK</source>
-        <translation type="unfinished"></translation>
+        <translation>TRACK</translation>
     </message>
     <message>
         <source>LINK</source>
-        <translation type="unfinished"></translation>
+        <translation>LIEN</translation>
     </message>
     <message>
         <source>[music import]</source>
-        <translation type="unfinished">[import musique]</translation>
+        <translation>[import musique]</translation>
     </message>
     <message>
         <source>[traffic import]</source>
-        <translation type="unfinished"></translation>
+        <translation>[import pub]</translation>
     </message>
     <message>
         <source>CHAIN TO</source>
-        <translation type="unfinished">LIER A</translation>
+        <translation>LIER A</translation>
     </message>
     <message>
         <source>[CART NOT FOUND]</source>
-        <translation type="unfinished">[CART INCONNU]</translation>
+        <translation>[CART INCONNU]</translation>
     </message>
     <message>
         <source>[NO VALID CUT AVAILABLE]</source>
-        <translation type="unfinished">[PAS DE CUT DISPONIBLE]</translation>
+        <translation>[PAS DE CUT DISPONIBLE]</translation>
     </message>
     <message>
         <source>[NO AUDIO AVAILABLE]</source>
-        <translation type="unfinished">[PAS DE SON DISPONIBLE]</translation>
+        <translation>[PAS DE SON DISPONIBLE]</translation>
     </message>
     <message>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation>T</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished">Pause</translation>
+        <translation>Pause</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer</translation>
     </message>
     <message>
         <source>Run Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Durées</translation>
     </message>
     <message>
         <source>Next Stop:</source>
-        <translation type="unfinished">Prochain Arrêt :</translation>
+        <translation>Avt Arrêt:</translation>
     </message>
     <message>
         <source>Log End:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin du Log:</translation>
     </message>
     <message>
         <source>Selected:</source>
-        <translation type="unfinished">Sélectionné :</translation>
+        <translation>Sélection:</translation>
     </message>
     <message>
         <source>Audition
 Head</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecouter
+le Début</translation>
     </message>
     <message>
         <source>Audition
 Tail</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecouter
+la Fin</translation>
     </message>
 </context>
 <context>
     <name>ListLogs</name>
     <message>
         <source>Select a Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner un Log</translation>
     </message>
     <message>
         <source>NAME</source>
-        <translation type="unfinished"></translation>
+        <translation>NOM</translation>
     </message>
     <message>
         <source>DESCRIPTION</source>
-        <translation type="unfinished"></translation>
+        <translation>DESCRIPTION</translation>
     </message>
     <message>
         <source>SERVICE</source>
-        <translation type="unfinished"></translation>
+        <translation>SERVICE</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <source>Unload</source>
-        <translation type="unfinished"></translation>
+        <translation>Vider</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauver</translation>
     </message>
     <message>
         <source>Save &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;auver Sous</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Rename Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Renommer le Log</translation>
     </message>
 </context>
 <context>
     <name>LogLineBox</name>
     <message>
         <source>STOP</source>
-        <translation type="unfinished"></translation>
+        <translation>STOPPER</translation>
     </message>
     <message>
         <source>PLAY</source>
-        <translation type="unfinished"></translation>
+        <translation>LANCER</translation>
     </message>
     <message>
         <source>SEGUE</source>
-        <translation type="unfinished"></translation>
+        <translation>ENCHAINER</translation>
     </message>
     <message>
         <source>[CART NOT FOUND]</source>
-        <translation type="unfinished"></translation>
+        <translation>[CART INCONNU]</translation>
     </message>
     <message>
         <source>[NO AUDIO AVAILABLE]</source>
-        <translation type="unfinished"></translation>
+        <translation>[PAS DE SON DISPONIBLE]</translation>
     </message>
     <message>
         <source>[NO VALID CUT AVAILABLE]</source>
-        <translation type="unfinished"></translation>
+        <translation>[PAS DE CUT DISPONIBLE]</translation>
     </message>
     <message>
         <source>MARKER</source>
-        <translation type="unfinished"></translation>
+        <translation>MARQUE</translation>
     </message>
     <message>
         <source>TRACK</source>
-        <translation type="unfinished"></translation>
+        <translation>TRACK</translation>
     </message>
     <message>
         <source>LINK</source>
-        <translation type="unfinished"></translation>
+        <translation>LIEN</translation>
     </message>
     <message>
         <source>[music import]</source>
-        <translation type="unfinished"></translation>
+        <translation>[import musique]</translation>
     </message>
     <message>
         <source>[traffic import]</source>
-        <translation type="unfinished"></translation>
+        <translation>[import pub]</translation>
     </message>
     <message>
         <source>CHAIN</source>
-        <translation type="unfinished"></translation>
+        <translation>LIER A</translation>
     </message>
     <message>
         <source>T</source>
-        <translation type="unfinished"></translation>
+        <translation>T</translation>
     </message>
 </context>
 <context>

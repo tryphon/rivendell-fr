@@ -186,41 +186,43 @@
     <name>RDButtonDialog</name>
     <message>
         <source>Edit Button</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier Bouton</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Label :</translation>
     </message>
     <message>
         <source>Cart:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cart :</translation>
     </message>
     <message>
         <source>Set
 Cart</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir
+Le Cart</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Set
 Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir
+La Couleur</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>NOT FOUND</source>
-        <translation type="unfinished"></translation>
+        <translation>NON TROUVE</translation>
     </message>
 </context>
 <context>
@@ -667,6 +669,25 @@ Marker</source>
     <message>
         <source>R</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RDEditPanelName</name>
+    <message>
+        <source>Edit Panel Name</source>
+        <translation>Modifier le Nom du Panneau</translation>
+    </message>
+    <message>
+        <source>Panel &amp;Name:</source>
+        <translation>&amp;Nom :</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
     </message>
 </context>
 <context>
@@ -1200,7 +1221,7 @@ Please check your configuration and try again.</source>
     </message>
     <message>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panneau</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -1389,31 +1410,31 @@ please try again!</source>
     <name>RDSoundPanel</name>
     <message>
         <source>Play All</source>
-        <translation type="unfinished"></translation>
+        <translation>Jouer tout</translation>
     </message>
     <message>
         <source>Play Hook</source>
-        <translation type="unfinished"></translation>
+        <translation>J. Marques</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer</translation>
     </message>
     <message>
         <source>Cart</source>
-        <translation type="unfinished"></translation>
+        <translation>Cart</translation>
     </message>
     <message>
         <source>Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Panneau</translation>
     </message>
 </context>
 <context>

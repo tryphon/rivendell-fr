@@ -25,6 +25,8 @@ marker:: marque
 play:: lancer
 segue:: enchainement, enchaîner
 
+Une bonne référence : {Glossaire Traduc.org}[http://glossaire.traduc.org/]
+
 = Apporter vos modifications ?
 
 == Prérequis

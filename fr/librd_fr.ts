@@ -1,12 +1,5 @@
 <!DOCTYPE TS><TS>
 <context>
-    <name></name>
-    <message>
-        <source>UNKNOWN CUT</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>QObject</name>
     <message>
         <source>Couldn&apos;t initialize QSql driver!</source>
@@ -14,6 +7,398 @@
     </message>
     <message>
         <source>Couldn&apos;t open mySQL connection!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sequentially</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Randomly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Open/Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Commercial/Jingle/Promo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNKNOWN CUT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PLAY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SEGUE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>STOP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UNKNOWN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Bracket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Bracket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChainTo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Track</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Traffic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RDLogManager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tracker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Internal Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interrupted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Busy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Such Cart/Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Audio Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CBSI DeltaFlex Traffic Reconciliation v2.01</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ASCAP/BMI Electronic Music Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Technical Playout Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SoundExchange Statutory License Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RadioTraffic.com Traffic Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VisualTraffic Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CounterPoint Traffic Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Music1 Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report complete!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report canceled!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open report file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Music Summary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WideOrbit Traffic Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NPR/DS SoundExchange Report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Music Playout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main Log Output 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main Log Output 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Panel First Play Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aux Log 1 Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aux Log 2 Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Panel Second Play Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Panel Third Play Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Panel Fourth Play Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audition/Cue Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Panel Fifth and Later Play Output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>invalid SQL or failed DB connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NaturalLog Reconciliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LiveAssist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classical Music Playout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reserved</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -127,10 +512,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The name is invalid!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The service is invalid!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -186,43 +567,41 @@
     <name>RDButtonDialog</name>
     <message>
         <source>Edit Button</source>
-        <translation>Modifier Bouton</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Label :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cart:</source>
-        <translation>Cart :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set
 Cart</source>
-        <translation>Choisir
-Le Cart</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Effacer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set
 Color</source>
-        <translation>Choisir
-La Couleur</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuler</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>NOT FOUND</source>
-        <translation>NON TROUVE</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -233,45 +612,6 @@ La Couleur</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RDCart</name>
-    <message>
-        <source>Sequentially</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Randomly</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feature</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Theme Open/Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Background</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Commercial/Jingle/Promo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -358,6 +698,101 @@ La Couleur</translation>
         <source>ALL</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show Only First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scheduler Code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load From
+&amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cart Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create temporary cart for import!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to get temporary cart number for import!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Imported from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COMPOSER</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CONDUCTOR</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RDCueEdit</name>
+    <message>
+        <source>&amp;Audition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Pause</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Recue</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RDCueEditDialog</name>
+    <message>
+        <source>Set Cue Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RDCutDialog</name>
@@ -428,6 +863,18 @@ Cart</source>
     </message>
     <message>
         <source>ALL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Only First</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scheduler Code:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -670,24 +1117,51 @@ Marker</source>
         <source>R</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rivendell Web Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to download peak data, error was:
+&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marker Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less than half of the audio is playable with these marker settings.
+Are you sure you want to save?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More than half of the audio will be faded with these marker settings.
+Are you sure you want to save?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RDEditPanelName</name>
     <message>
         <source>Edit Panel Name</source>
-        <translation>Modifier le Nom du Panneau</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Panel &amp;Name:</source>
-        <translation>&amp;Nom :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuler</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1028,54 +1502,11 @@ figure for the report period.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot open file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsupported file type!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This will overwrite the existing recording.
-Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Empty Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Importing this cut will also empty the clipboard.
-Do you still want to proceed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Import Complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import complete!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Aborted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The import has been aborted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The importer encountered an error.
-Please check your importer configuration and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1088,30 +1519,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>File Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot open file in archive!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsupported file type in archive!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No Access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to open the file for writing!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export Complete</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1120,20 +1527,15 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Aborted</source>
+        <source>Export Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The export has been aborted.</source>
+        <source>Import Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Exporter encountered an error.
-Please check your configuration and try again.</source>
+        <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1179,6 +1581,60 @@ Please check your configuration and try again.</source>
     </message>
 </context>
 <context>
+    <name>RDListGroups</name>
+    <message>
+        <source>Select Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DESCRIPTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RDListLogs</name>
+    <message>
+        <source>Select Log - User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DESCRIPTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SERVICE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RDListSelector</name>
     <message>
         <source>Available Services</source>
@@ -1198,93 +1654,9 @@ Please check your configuration and try again.</source>
     </message>
 </context>
 <context>
-    <name>RDLogLine</name>
+    <name>RDPanelButton</name>
     <message>
-        <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Segue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Panel</source>
-        <translation type="unfinished">Panneau</translation>
-    </message>
-    <message>
-        <source>Macro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PLAY</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SEGUE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>STOP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UNKNOWN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Marker</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Bracket</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Bracket</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ChainTo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Track</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Traffic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Music</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RDLogManager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tracker</source>
+        <source>No Audio</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1325,116 +1697,34 @@ please try again!</source>
     </message>
 </context>
 <context>
-    <name>RDRecording</name>
-    <message>
-        <source>Recording</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Macro Event</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch Event</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Playout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RDReport</name>
-    <message>
-        <source>CBSI DeltaFlex Traffic Reconciliation v2.01</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Text Log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ASCAP/BMI Electronic Music Report</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Technical Playout Report</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SoundExchange Statutory License Report</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>AM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Report complete!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Report canceled!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to open report file!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>RadioTraffic.com Traffic Reconciliation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>RDSoundPanel</name>
     <message>
         <source>Play All</source>
-        <translation>Jouer tout</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play Hook</source>
-        <translation>J. Marques</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Effacer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Tous</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation>Configurer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cart</source>
-        <translation>Cart</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Panel</source>
-        <translation>Panneau</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
